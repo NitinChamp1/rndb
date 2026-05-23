@@ -38,26 +38,6 @@ A premium, serverless Movie and TV Show discovery web application built using na
 
 ---
 
-## 🚀 How to Run Locally
-
-Since this is a lightweight, frontend-first project, running it locally is incredibly simple:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/NitinChamp1/rndb.git
-   cd rndb
-   ```
-
-2. **Open the Project:**
-   Simply open the `public/index.html` file directly in any modern browser, or run a local development server for the best experience:
-   - If you have VS Code, use the **Live Server** extension.
-   - Or, run using Python in your terminal:
-     ```bash
-     python -m http.server 8000
-     ```
-     *Then open `http://localhost:8000/public/` in your browser.*
-
----
 
 ## 📦 Deployment
 
